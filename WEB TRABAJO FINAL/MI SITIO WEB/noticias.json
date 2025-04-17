@@ -1,0 +1,16 @@
+{
+    "noticias": [
+        {
+            "titulo": "¡Nueva colección lanzada!",
+            "contenido": "Descubre nuestra nueva línea de botas western personalizadas con flecos y detalles artesanales."
+        },
+        {
+            "titulo": "Promoción especial primavera",
+            "contenido": "10% de descuento en todos los pedidos realizados durante el mes de abril."
+        },
+        {
+            "titulo": "Coyote Boots en Instagram",
+            "contenido": "Síguenos en @coyoteboots para ver nuestras últimas creaciones y detrás de cámaras del proceso artesanal."
+        }
+    ]
+}
